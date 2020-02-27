@@ -1,0 +1,27 @@
+th {
+    text-align: left;
+  }
+
+  th, td {
+    padding: 15px;
+  }
+
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+  table {
+    border-spacing: 5px;
+    width: 100%;
+  }
+
+  
+  tbody{
+    height:500px;
+    overflow-y:scroll;
+    width: 100%;
+    display: block;
+    
+    }
+  
